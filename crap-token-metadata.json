@@ -1,0 +1,36 @@
+{
+  "name": "CRAP Token",
+  "symbol": "CRAP",
+  "description": "Real CRAP",
+  "image": "$CRAP",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Token"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "SPL-Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "$CRAP",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "KSQNiCykbqpD4b3w4RbFxvrd5zA5JMUMgYkb2dXUVuT",
+        "share": 100
+      }
+    ]
+  }
+}
